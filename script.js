@@ -86,6 +86,7 @@ function continuar() {
         </div>
     </div>
         `;
+        agregarFooter();
     }
 }
 
