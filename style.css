@@ -3,7 +3,7 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
-    background: #f1f5f9;
+    background: linear-gradient(135deg, #dbeafe, #eff6ff);
     min-height: 100vh;
 }
 
