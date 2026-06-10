@@ -36,7 +36,7 @@ input {
 }
 
 button {
-   background-color: #2563eb;
+   background-color: #f27c22;
     color: white;
     border: none;
     border-radius: 8px;
@@ -44,7 +44,7 @@ button {
     font-size: 16px;
 }
 button:hover {
-    background-color: #1d4ed8;
+    background-color: #d96512;
 }
 
 form button {
