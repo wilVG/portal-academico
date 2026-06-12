@@ -213,3 +213,19 @@ footer{
         margin-top: 25px;
     }
 }
+.colegio{
+    text-align: center;
+    color: #475569;
+    font-size: 24px;
+    font-weight: normal;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px){
+
+    .colegio{
+        font-size: 18px;
+    }
+
+}
