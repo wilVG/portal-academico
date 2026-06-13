@@ -189,10 +189,9 @@ footer{
 .card-datos p {
     font-size: 17px;
 }
-
-    body {
-        padding: 15px;
-        max-width: 100%;
+body {
+   padding: 15px;
+   max-width: 100%;
     }
 
     .logo {
@@ -255,6 +254,7 @@ footer{
 .card h2 {
     font-size: 18px;
     margin-top: 10px;
+    }
 }
 .colegio{
     text-align: center;
@@ -264,13 +264,6 @@ footer{
     margin: 0 0 15px 0;
 }
 
-@media (max-width: 600px){
-
-    .colegio{
-        font-size: 18px;
-    }
-
-}
 .dato-alumno {
     background: #f8fafc;
     padding: 15px;
