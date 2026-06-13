@@ -266,9 +266,9 @@ footer{
     font-size: 14px;
     margin-bottom: 5px;
 }
-
 .dato-alumno strong {
     display: block;
-    font-size: 22px;
+    font-size: 18px;
     color: #0f172a;
+    line-height: 1.3;
 }
