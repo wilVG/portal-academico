@@ -253,3 +253,22 @@ footer{
     }
 
 }
+.dato-alumno {
+    background: #f8fafc;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+.dato-alumno span {
+    display: block;
+    color: #64748b;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.dato-alumno strong {
+    display: block;
+    font-size: 22px;
+    color: #0f172a;
+}
